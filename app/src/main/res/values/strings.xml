@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Animation Demo</string>
+    <string name="title_activity_transition">Transition Activity</string>
+    <string name="front">Front</string>
+    <string name="back">Back</string>
+    <string name="coin_flip">Coin Flip</string>
+    <string name="transition">Transition</string>
+    <string name="sequential">Sequential</string>
+    <string name="fade">Fade</string>
+    <string name="rotate">Rotate</string>
+    <string name="zoom">Zoom</string>
+    <string name="blink">Blink</string>
+    <string name="scale">Scale</string>
+    <string name="alpha">Alpha</string>
+    <string name="slide_below">Slide Below</string>
+    <string name="slide_above">Slide Above</string>
+    <string name="slide_right">Slide Right</string>
+    <string name="slide_left">Slide Left</string>
+    <string name="frame_animation">Frame Animation</string>
+    <string name="hit_back">Hit Back For Other Animations</string>
+    <string name="sequential_animation">Sequential Animation</string>
+</resources>
